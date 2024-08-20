@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Next.js App on AWS EC2: A Beginner’s Guide](https://medium.com/@lucumasoftware/deploying-a-next-js-app-on-aws-ec2-a-beginners-guide-16b6554c305f?source=rss-b5e2025f7bfe------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
