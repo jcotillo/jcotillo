@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Julissa</h1>
-<h3 align="center">A passionate full-stack AI developer based in Florida</h3>
+<h3 align="center">Tampa-based Full-Stack Engineer passionate about creating impactful AI solutions</h3>
 
-- 🔭 I’m currently working on [Staybot](www.staybot.co)
+- 🔭 I'm currently working at **Polly** building agentic workflows with OpenAI APIs and developing interfaces with Vue/TypeScript
 
-- 🌱 I’m currently learning **tensorflow, vertex AI and to deploy AI models**
+- 🌱 I'm focused on **AI integration, text streaming, and scalable architectures**
 
-- 👯 I’m looking to collaborate on **Full-stack AI projects**
+- 👯 I'm looking to collaborate on **innovative AI projects and meaningful tech solutions**
 
 - 👨‍💻 All of my projects are available at [https://julissa.online/projects](https://julissa.online/projects)
 
 - 📝 I regularly write articles on [https://julissa.online/blog](https://julissa.online/blog)
 
-- 💬 Ask me about **gemini AI, react, next.js, ruby, python**
+- 💬 Ask me about **OpenAI APIs, React, TypeScript, Python, and cross-functional collaboration**
 
 - 📫 How to reach me **lucumasoftware@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Scalable Chatbot Backend with Vertex AI and Retrieval-Augmented Generation &lpar;RAG&rpar;](https://medium.com/@lucumasoftware/building-a-scalable-chatbot-backend-with-vertex-ai-and-retrieval-augmented-generation-rag-6f4af1c14508?source=rss-b5e2025f7bfe------2)
-- [Deploying a Next.js App on AWS EC2: A Beginner’s Guide](https://medium.com/@lucumasoftware/deploying-a-next-js-app-on-aws-ec2-a-beginners-guide-16b6554c305f?source=rss-b5e2025f7bfe------2)
+- [Deploying a Next.js App on AWS EC2: A Beginner's Guide](https://medium.com/@lucumasoftware/deploying-a-next-js-app-on-aws-ec2-a-beginners-guide-16b6554c305f?source=rss-b5e2025f7bfe------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
