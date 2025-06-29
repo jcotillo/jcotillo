@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Overcoming iOS Browser Limitations for Voice-Enabled AI Apps](https://medium.com/@lucumasoftware/overcoming-ios-browser-limitations-for-voice-enabled-ai-apps-d43d3248ab8d?source=rss-b5e2025f7bfe------2)
 - [Breaking Down a RAG System: A Practical Intro Inspired by Learning LangChain](https://medium.com/@lucumasoftware/breaking-down-a-rag-system-a-practical-intro-inspired-by-learning-langchain-9c8a48cad8b0?source=rss-b5e2025f7bfe------2)
 - [Background Work, Frontline Gains: Unlocking Async with A2A](https://medium.com/@lucumasoftware/background-work-frontline-gains-unlocking-async-with-a2a-648f45a27236?source=rss-b5e2025f7bfe------2)
 - [Data-Sovereign AI Therapy: Building Couple’s Support with Google’s Agent Development Kit](https://medium.com/@lucumasoftware/data-sovereign-ai-therapy-building-couples-support-with-google-s-agent-development-kit-3aec34721b2b?source=rss-b5e2025f7bfe------2)
 - [Building a Scalable Chatbot Backend with Vertex AI and Retrieval-Augmented Generation &lpar;RAG&rpar;](https://medium.com/@lucumasoftware/building-a-scalable-chatbot-backend-with-vertex-ai-and-retrieval-augmented-generation-rag-6f4af1c14508?source=rss-b5e2025f7bfe------2)
-- [Deploying a Next.js App on AWS EC2: A Beginner’s Guide](https://medium.com/@lucumasoftware/deploying-a-next-js-app-on-aws-ec2-a-beginners-guide-16b6554c305f?source=rss-b5e2025f7bfe------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
