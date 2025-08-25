@@ -7,9 +7,9 @@
 
 - 👯 I'm looking to collaborate on **innovative AI projects and meaningful tech solutions**
 
-- 👨‍💻 All of my projects are available at [https://julissa.online/projects](https://julissa.online/projects)
+- 👨‍💻 All of my projects are available at [https://julissa.work/projects](https://julissa.work/projects)
 
-- 📝 I regularly write articles on [https://julissa.online/blog](https://julissa.online/blog)
+- 📝 I regularly write articles on [https://julissa.work/blog](https://julissa.work/blog)
 
 - 💬 Ask me about **OpenAI APIs, React, TypeScript, Python, and cross-functional collaboration**
 
