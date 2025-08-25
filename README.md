@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://julissa.work/projects](https://julissa.work/projects)
 
-- 📝 I regularly write articles on [https://julissa.work/blog](https://julissa.work/blog)
+- 📝 I regularly write articles on [https://julissa.work/posts](https://julissa.work/posts)
 
 - 💬 Ask me about **OpenAI APIs, React, TypeScript, Python, and cross-functional collaboration**
 
