@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Figuring It Out: How We’re Applying an Experimental Mindset to Building a Business as a Duo](https://medium.com/@lucumasoftware/figuring-it-out-how-were-applying-an-experimental-mindset-to-building-a-business-as-a-duo-3a48c6e40066?source=rss-b5e2025f7bfe------2)
 - [Coaching Confidence with AI: A Personal Journey into Speech and Self Improvement](https://medium.com/@lucumasoftware/coaching-confidence-with-ai-a-personal-journey-into-speech-and-self-improvement-b9edec04ba11?source=rss-b5e2025f7bfe------2)
 - [Why I’m Moving My AI Logic Out of n8n &lpar;But Keeping It in the Loop&rpar;](https://medium.com/@lucumasoftware/why-im-moving-my-ai-logic-out-of-n8n-but-keeping-it-in-the-loop-1d2963adeb14?source=rss-b5e2025f7bfe------2)
 - [Overcoming iOS Browser Limitations for Voice-Enabled AI Apps](https://medium.com/@lucumasoftware/overcoming-ios-browser-limitations-for-voice-enabled-ai-apps-d43d3248ab8d?source=rss-b5e2025f7bfe------2)
 - [Breaking Down a RAG System: A Practical Intro Inspired by Learning LangChain](https://medium.com/@lucumasoftware/breaking-down-a-rag-system-a-practical-intro-inspired-by-learning-langchain-9c8a48cad8b0?source=rss-b5e2025f7bfe------2)
-- [Background Work, Frontline Gains: Unlocking Async with A2A](https://medium.com/@lucumasoftware/background-work-frontline-gains-unlocking-async-with-a2a-648f45a27236?source=rss-b5e2025f7bfe------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
