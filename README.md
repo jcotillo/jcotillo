@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julissa</h1>
 <h3 align="center">Tampa-based Full-Stack Engineer passionate about creating impactful AI solutions</h3>
 
-- 🔭 I'm currently working at **Polly** building agentic workflows with OpenAI APIs and developing interfaces with Vue/TypeScript
-
 - 🌱 I'm focused on **AI integration, text streaming, and scalable architectures**
 
 - 👯 I'm looking to collaborate on **innovative AI projects and meaningful tech solutions**
