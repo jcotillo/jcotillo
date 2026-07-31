@@ -1,5 +1,5 @@
   <h1 align="center">Hey, I'm Julissa ✨</h1>
-  <h3 align="center">Cofounder @ <a href="https://practical.works">Practical Works</a> · AI engineer building agentic systems, RAG, and the architecture around them</h3>
+  <h3 align="center">Cofounder @ <a href="https://practical.works">Practical Works</a> · I build production agent fleets and the harnesses that keep them honest</h3>
 
   <p align="center">
     <a href="https://julissa.work"><img src="https://img.shields.io/badge/julissa.work-FF6B9D?style=for-the-badge&logoColor=white" alt="julissa.work" /></a>
@@ -11,10 +11,10 @@
   - 🔓 We open-source our infrastructure — start with [inngest-vps](https://github.com/PracticalWorks/inngest-vps), self-hosted Inngest in one command
   - 🛠️ **10+ years** in software — now focused on shipping AI that actually works in production
   - 🤖 Currently obsessed with **TypeScript + [Mastra](https://mastra.ai)** for real agentic workflows
-  - 🧠 I design and build **AI-native products** — agents, RAG systems, voice/text streaming, and the infra around them
+  - 🧠 I design and build **agent systems that run unattended** — durable workflows, hard code gates, evals, and the infra around them
   - 🧪 Building in public, one experiment at a time — honest notes at [julissa.work/blog](https://julissa.work/blog)
-  - 💬 Ask me about **Mastra, agentic systems, RAG, OpenAI APIs, Next.js, and AI consulting**
-  - 📫 Reach me at **lucumasoftware@gmail.com**
+  - 💬 Ask me about **agent harnesses, Mastra, MCP, durable workflows (Inngest), and self-hosted AI infra**
+  - 📫 Reach me at **julissa@practical.works**
 
   <h3 align="left">Connect with me</h3>
   <p align="left">
