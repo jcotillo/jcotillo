@@ -1,5 +1,5 @@
   <h1 align="center">Hey, I'm Julissa ✨</h1>
-  <h3 align="center">AI engineer building agentic systems, RAG, and the architecture around them</h3>
+  <h3 align="center">Cofounder @ <a href="https://practical.works">Practical Works</a> · AI engineer building agentic systems, RAG, and the architecture around them</h3>
 
   <p align="center">
     <a href="https://julissa.work"><img src="https://img.shields.io/badge/julissa.work-FF6B9D?style=for-the-badge&logoColor=white" alt="julissa.work" /></a>
@@ -7,6 +7,8 @@
     <a href="https://julissa.work/projects"><img src="https://img.shields.io/badge/Projects-1f6feb?style=for-the-badge" alt="Projects" /></a>
   </p>
 
+  - 🏗️ **Cofounder @ [Practical Works](https://practical.works)** — embedded senior engineering + fractional CTO for small and mid-sized businesses
+  - 🔓 We open-source our infrastructure — start with [inngest-vps](https://github.com/PracticalWorks/inngest-vps), self-hosted Inngest in one command
   - 🛠️ **10+ years** in software — now focused on shipping AI that actually works in production
   - 🤖 Currently obsessed with **TypeScript + [Mastra](https://mastra.ai)** for real agentic workflows
   - 🧠 I design and build **AI-native products** — agents, RAG systems, voice/text streaming, and the infra around them
