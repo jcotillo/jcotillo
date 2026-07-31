@@ -8,7 +8,7 @@
   </p>
 
   - 🏗️ **Cofounder @ [Practical Works](https://practical.works)** — embedded senior engineering + fractional CTO for small and mid-sized businesses
-  - 🔓 We open-source our infrastructure — start with [inngest-vps](https://github.com/PracticalWorks/inngest-vps), self-hosted Inngest in one command
+  - 🔓 We open-source the infrastructure pieces worth sharing — start with [inngest-vps](https://github.com/PracticalWorks/inngest-vps), self-hosted Inngest in one command
   - 🛠️ **10+ years** in software — now focused on shipping AI that actually works in production
   - 🤖 Currently obsessed with **TypeScript + [Mastra](https://mastra.ai)** for real agentic workflows
   - 🧠 I design and build **agent systems that run unattended** — durable workflows, hard code gates, evals, and the infra around them
