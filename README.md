@@ -7,8 +7,8 @@
     <a href="https://julissa.work/projects"><img src="https://img.shields.io/badge/Projects-1f6feb?style=for-the-badge" alt="Projects" /></a>
   </p>
 
-  - 🏗️ **Cofounder @ [Practical Works](https://practical.works)** — embedded senior engineering + fractional CTO for small and mid-sized businesses
-  - 🔓 We open-source the infrastructure pieces worth sharing — start with [inngest-vps](https://github.com/PracticalWorks/inngest-vps), self-hosted Inngest in one command
+  - 🏗️ **Cofounder @ [Practical Works](https://practical.works)**, a Tampa Bay software shop: we take apps to production, run self-hosted systems, and put AI agents to work
+  - 🔓 We open-source what we run every day: [rc-bridge](https://github.com/PracticalWorks/rc-bridge) (an AI agent in Rocket.Chat), [crm](https://github.com/PracticalWorks/crm) (a typed Twenty CRM client), [guardrails](https://www.npmjs.com/package/@practicalworks/guardrails) (shared git hooks) and [inngest-vps](https://github.com/practical-works-acropolis/inngest-vps) (self-hosted Inngest in one command)
   - 🛠️ **10+ years** in software — now focused on shipping AI that actually works in production
   - 🤖 Currently obsessed with **TypeScript + [Mastra](https://mastra.ai)** for real agentic workflows
   - 🧠 I design and build **agent systems that run unattended** — durable workflows, hard code gates, evals, and the infra around them
